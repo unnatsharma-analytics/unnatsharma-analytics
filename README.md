@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm a Data Analytics Enthusiast 👋
 
-<!--
-**unnatsharma-analytics/unnatsharma-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy exploring data, identifying patterns, and turning information into meaningful insights. I'm focused on building practical projects that combine data analysis, visualization, and business understanding.
 
-Here are some ideas to get you started:
+### 🛠️ Skills & Tools
+- **Data Analysis:** Excel, SQL
+- **Data Visualization:** Power BI, Tableau
+- **Python:** NumPy, Pandas, Matplotlib, Seaborn (Basic)
+- **R Programming:** Basic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Featured Project
+**E-commerce Customer 360 Analytics**
+
+A Power BI and SQL Server project exploring sales performance, customer behaviour, product profitability, and returns.
+
+[View Project on GitHub](https://github.com/unnatsharma-analytics/ecommerce-customer-360-analytics)
+
+### 🎯 What I'm Working Towards
+Building strong analytical skills, creating insightful dashboards, and developing projects that solve practical business problems.
