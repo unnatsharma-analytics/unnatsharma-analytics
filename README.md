@@ -15,5 +15,16 @@ A Power BI and SQL Server project exploring sales performance, customer behaviou
 
 [View Project on GitHub](https://github.com/unnatsharma-analytics/ecommerce-customer-360-analytics)
 
+### 2. Corporate Financial Performance & Cost Intelligence
+
+**Tools:** Microsoft Excel | Python | Tableau
+
+- Analysed corporate financial performance and cost trends.
+- Used Python libraries such as Pandas and NumPy for data analysis.
+- Created interactive dashboards using Tableau.
+- Explored revenue, profitability and cost-related business insights.
+
+**[View Project on GitHub](https://github.com/unnatsharma-analytics/corporate-financial-performance-cost-intelligence)**
+
 ### 🎯 What I'm Working Towards
 Building strong analytical skills, creating insightful dashboards, and developing projects that solve practical business problems.
