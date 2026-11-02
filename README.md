@@ -26,5 +26,16 @@ A Power BI and SQL Server project exploring sales performance, customer behaviou
 
 **[View Project on GitHub](https://github.com/unnatsharma-analytics/corporate-financial-performance-cost-intelligence)**
 
+### 3. Healthcare Operations & Resource Utilization Intelligence
+
+**Tools:** Microsoft Excel | Power Query
+
+- Analyzed hospital performance, patient visits, and revenue.
+- Cleaned and prepared datasets using Power Query.
+- Created interactive Excel dashboards for hospital operations.
+- Analyzed bed occupancy, staff availability, and resource utilization.
+
+[View Project on GitHub](https://github.com/unnatsharma-analytics/healthcare-operations-intelligence)
+
 ### 🎯 What I'm Working Towards
 Building strong analytical skills, creating insightful dashboards, and developing projects that solve practical business problems.
